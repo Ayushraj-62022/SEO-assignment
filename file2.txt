@@ -1,0 +1,22 @@
+Meta tags are important because they impact how your site appears in the SERPs and how many people will be inclined to click through to 
+your website. They will therefore impact your traffic and engagement rates, which can impact your SEO and rankings. Meta tags are an 
+important part of a solid SEO strategy. Although some tags might not have a direct impact on rankings, they do impact how your site appears 
+within the digital ecosystem. Additionally, they could be a factor in many non-traditional search results, like Knowledge Graph, Google image search, voice, and more. No brand
+ should neglect them when developing content.
+ Here are some benefits of using meta tags: 
+Relevancy: Meta tags can show search engines how relevant a page is to a user's query.
+Time: Meta tags can help save time by not requiring too much writing.
+Optimization: Meta tags can help optimize a site without making things untidy.
+Implementation: Meta tags can be quickly implemented.
+Metrics: Meta tags can help track metrics better.
+Appearance: Meta tags can set how pages appear in search results and on social media platforms.
+Indexing: Meta tags can control what a search engine crawler should index and return in search results.
+Duplicate content: Meta tags can help avoid duplicate content issues.
+Traffic: Meta tags can help drive clicks and organic search traffic.
+Here are some tips for optimizing meta tags: 
+Keep them under 120 characters.
+Use sentence case.
+Only include a target keyword where it makes sense.
+Be accurate, descriptive, and concise.
+Match search intent.
+Avoid duplicate meta descriptions on a website.

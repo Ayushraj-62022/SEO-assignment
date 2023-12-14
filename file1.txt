@@ -1,0 +1,8 @@
+SEO (search engine optimization) is a set of processes aimed at improving a website’s visibility in search engines, like Google, with the goal of getting more organic traffic. SEO is about fulfilling users’ search needs by creating relevant, high-quality content and providing
+ the best possible user experience
+ These algorithms take into account a huge number of ranking factors to decide where a specific page should rank.
+
+ Search engines recommend SEO efforts that benefit both the user search experience and page’s ranking, by featuring content that fulfills user
+  search needs. This includes the use of relevant keywords in titles, meta descriptions, and headlines (H1), featuring descriptive URLs with 
+  keywords rather than strings of numbers, and schema markup to specify the page's content
+  meaning, among other SEO best practices.
